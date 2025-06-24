@@ -4,7 +4,6 @@ import time, datetime
 import asyncio, aiohttp
 import base64, json, jwt
 
-from protobuf import 
 from protobuf.change_wishlist_pb2 import 
 from datetime import datetime
 from Crypto.Cipher import AES
